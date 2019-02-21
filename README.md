@@ -2,7 +2,7 @@
 NativeScript-Vue Sample Project
 To Do List
 
-MIT License
+# MIT License
 
 Copyright (c) 2019 Darwin Gonzalez
 
